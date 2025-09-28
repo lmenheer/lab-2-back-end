@@ -17,7 +17,7 @@ const Organization: React.FC = () => {
 
   return (
     <div className="orginization-chart">
-      <h1>Organization Chart</h1>
+      <h1>Organization</h1>
       {renderSection("Executive", organizationJson.Executive)}
       {renderSection("Directors", organizationJson.Directors)}
       {renderSection("Managers", organizationJson.Managers)}
