@@ -1,0 +1,47 @@
+html {
+  font-family: "Arial", sans-serif;
+}
+
+ul {
+  text-decoration: none;
+}
+
+.links span {
+  margin-right: 8px;
+}
+
+.employee {
+  list-style-type: none;
+  padding: 8px;
+  margin-bottom: 8px;
+  border-radius: 2.5px;
+  border: 1px solid green;
+}
+
+.organization{
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.organization h1,
+.organization h2 {
+  color: #333;
+}
+
+.organization .role-block {
+  list-style-type: none;
+  padding: 10px;
+  margin-bottom: 8px;
+  border-radius: 5px;
+  border: 1px solid #007bff;
+  background-color: #f9f9f9;
+}
+
+.organization .role-block span.role {
+  font-weight: bold;
+}
+
+.organization .role-block span.name {
+  margin-left: 10px;
+  color: #333;
+}

@@ -1,0 +1,47 @@
+{
+  "Executive": {
+    "CEO/Chair of Board": "Jo-Anne Sinclair",
+    "COO/VP Operations": "Jackson Smith",
+    "CFO/VP Administration": "Susan Thomas",
+    "VP Client Services": "Richa Kaur",
+    "CIO": "Josee Benjamin",
+    "VP Sales & Marketing": "Vincent Grey"
+  },
+  "Directors": {
+    "Director Financial and Audit Services": "Rupa Kharki (she/her/hers)",
+    "Director Human Resources": "Xun Kuang",
+    "Director Legal Services/General Counsel": "Stien Pedersen",
+    "Director Information Technology": "Sandra Bear",
+    "Director Information Security and CISSO": "Gus Blue",
+    "Director Accounting": "Sam Kong",
+    "Director Physical Security": "Valentine Smith",
+    "Director Facilities": "Mariya Kaperski"
+  },
+  "Managers": {
+    "Manager, Business Continuity and Disaster Recovery": "Abd al-Hamid Alami",
+    "Manager, Internal Audit": "Victoria Gray",
+    "Manager, Security Architecture": "Jean Ngoy",
+    "Manager, Application Solutions": "Isaac Smith",
+    "Manager, Operational Risk": "Samantha Nettle",
+    "Manager, Vendor Relations": "Yolanda Ferreira",
+    "Manager, Purchasing": "Samir Hassan",
+    "Manager, Communications": "Yuna Aikawa",
+    "Manager Customer Experience and Community Engagement": "Jonathan Carberry",
+    "Manager of Sales": "Roland Wei",
+    "Manager, Marketing": "Pran Singh",
+    "Manager, Contract Management": "Esra Sedge",
+    "Manager, Compliance Management": "Pranee Tan",
+    "Manager IT End User Service Desk": "Karmen Spruce",
+    "Manager IT End User Computing": "Haydar Katirci",
+    "Manager IT Telecom and Infrastructure": "Jill Harkness",
+    "Manager, Data Center and Hosting Services": "Tim Morrison",
+    "Manager of IT Risk Management": "Aleksandr Milosevic",
+    "Manager IT, Project Management Office": "Jim Wingnut"
+  },
+  "Specialists": {
+    "Chief Architect": "Cheryl Guru",
+    "Solution Architect, Online Banking": "Kris Gold",
+    "Lead Developer, Online Banking": "Payton Frost",
+    "Business Analyst, Online Banking": "Linda Analyst"
+  }
+}
